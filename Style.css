@@ -1,0 +1,8 @@
+#contenedor1{
+    background-color: rgb(59, 43, 20);
+    border: 2px solid #623939; 
+    position: relative; 
+    z-index: 1; 
+    cursor: pointer
+    
+}
